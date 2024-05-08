@@ -14,11 +14,15 @@
 
 .table-of-contents ul {
   list-style-type: none;
-  padding: 0;
+  padding-left: 15px;
+  border-left: 1px solid blue;
 }
 
 .table-of-contents li {
   margin-bottom: 10px;
+  white-space: nowrap; /* Prevent line breaks */
+  overflow: hidden; /* Hide the overflowing content */
+  text-overflow: ellipsis/* Display an ellipsis (...) for the overflowing content */
 }
 
 .table-of-contents a {

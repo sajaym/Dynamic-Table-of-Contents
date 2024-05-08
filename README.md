@@ -47,7 +47,7 @@ To use the dynamic table of contents code, follow these steps:
 
 3. Include the CSS styles (`styles.css`) in your document's `<head>` section.
 
-4. Include the JavaScript code (`script.js`) at the end of your document's `<body>` section.
+4. Include the JavaScript code (`dynamic-table-of-content.js`) at the end of your document's `<body>` section.
 
 5. Customize the CSS styles and JavaScript code as needed to fit your specific requirements.
 

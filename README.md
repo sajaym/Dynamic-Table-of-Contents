@@ -1,4 +1,4 @@
-# Dynamic-Table-of-Contents - [DEMO](https://sajaym.github.io/Dynamic-Table-of-Contents/)
+# Dynamic-Table-of-Contents - [DEMO 🔗](https://sajaym.github.io/Dynamic-Table-of-Contents/)
 ---
 
 # Dynamic Table of Contents Documentation
